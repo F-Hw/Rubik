@@ -8,6 +8,8 @@ Im Programm existiert:
 * 3D-Modell unter "src/main/java/CubeModel/Cube.java" (Code von Jose Pereda *)
 * Modellierung des Cubes unter "src/main/java/CubeModel/Variation"
 
+Unter "src/main/resources/CubeModel/palette.png" ist eine png für die Farben für die 3D-Modellierung abgespeichert.
+
 Das Programm kann zwischen den unterschiedlichen Darstellungsweisen des Rubik's Cubes kommunizieren und somit durch verschiedene Angaben einen Lösungsweg und den Orbit berechnen.
 
 
